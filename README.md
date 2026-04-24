@@ -52,19 +52,19 @@
 
 #### 中国大陆变体字形（CN）
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 GB/T 2312 （6164 / 6763）
+&nbsp;&nbsp;&nbsp;&nbsp;🚧 GB/T 2312 （6328 / 6763）
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 《通用规范汉字表》（6265 / 8105）
+&nbsp;&nbsp;&nbsp;&nbsp;🚧 《通用规范汉字表》（6421 / 8105）
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ Big5 常用汉字表（5401 / 5401）
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅《常用国字标准字体表》（4808 / 4808）
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 jf7000 当务字集基本包（6046 / 6373）
+&nbsp;&nbsp;&nbsp;&nbsp;🚧 jf7000 当务字集基本包（6064 / 6373）
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 GB/T 12345（6213 / 6866）
+&nbsp;&nbsp;&nbsp;&nbsp;🚧 GB/T 12345（6287 / 6866）
 
-&nbsp;&nbsp;&nbsp;&nbsp;ℹ️ 共计支持汉字：9811
+&nbsp;&nbsp;&nbsp;&nbsp;ℹ️ 共计支持汉字：9975
 
 
 

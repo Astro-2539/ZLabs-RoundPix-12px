@@ -52,19 +52,19 @@ This project is in the development stage. Currently, it supports Level 1 Chinese
 
 #### Mainland China Variant Glyphs (CN)
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 GB/T 2312 (6164 / 6763)
+&nbsp;&nbsp;&nbsp;&nbsp;🚧 GB/T 2312 (6328 / 6763)
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 *Table of General Standard Chinese Characters*（通用规范汉字表） (6265 / 8105)
+&nbsp;&nbsp;&nbsp;&nbsp;🚧 *Table of General Standard Chinese Characters*（通用规范汉字表） (6421 / 8105)
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ Big5 Common Chinese Character List (5401 / 5401)
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ *Standard Form of Common National Characters Table* (4808 / 4808)
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 jf7000 Priority Character Set Basic Package (6046 / 6373)
+&nbsp;&nbsp;&nbsp;&nbsp;🚧 jf7000 Priority Character Set Basic Package (6064 / 6373)
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 GB/T 12345 (6213 / 6866)
+&nbsp;&nbsp;&nbsp;&nbsp;🚧 GB/T 12345 (6287 / 6866)
 
-&nbsp;&nbsp;&nbsp;&nbsp;ℹ️ Total supported Chinese characters: 9811
+&nbsp;&nbsp;&nbsp;&nbsp;ℹ️ Total supported Chinese characters: 9975
 
 ## Building the Font from Project Files
 
