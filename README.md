@@ -7,11 +7,11 @@
 
 **「Z Labs RoundPix 12px」（Z工坊像素圆体 12px）** 是一款基于日语字体[「x12y12pxMaruMinya」](https://github.com/hicchicc/x12y12pxMaruMinya)修改和增补的 12px 中文像素字体（汉字实际占用大小为 11*11），采用圆体字形风格，西文字符按等宽规格绘制。
 
-本项目处于开发阶段，目前支持 GB/T 2312 一级汉字及少量二级汉字、常用西文及常用标点符号，可满足较为简单的简体中文汉字使用需求。
+本项目处于开发阶段，目前支持 GB/T 2312 规定的全部汉字、常用西文及常用标点符号，可满足大部分简体中文汉字使用需求。
 
 > [!WARNING]
 > 
-> 此字体仍处于开发阶段，存在缺字问题，同时字形细节也有待优化。
+> 此字体仍处于开发阶段，一定程度上存在缺字问题。
 > 
 > 如在使用过程中有任何问题，请及时在 Issues 中反馈。
 
@@ -43,7 +43,7 @@
 
 > [!TIP]
 >
-> 需要更大的字号？试试 [**Z工坊像素圆体 16px**](https://github.com/Astro-2539/ZLabs-RoundPix-16px) 或 [**12×16莫妮卡圆像素**（by 綿雲飴里）](https://fonts.zeoseven.com/items/636/) 
+> 需要更大的字号？试试 [**Z工坊像素圆体 16px**](https://github.com/Astro-2539/ZLabs-RoundPix-16px) 或 [**12×16莫妮卡圆像素**（by 綿雲飴里）](https://www.maoken.com/freefonts/25830.html) 
 
 
 ## 字体覆盖范围
@@ -52,19 +52,19 @@
 
 #### 中国大陆变体字形（CN）
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 GB/T 2312 （6328 / 6763）
+&nbsp;&nbsp;&nbsp;&nbsp;✅ GB/T 2312 （6763 / 6763）
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 《通用规范汉字表》（6421 / 8105）
+&nbsp;&nbsp;&nbsp;&nbsp;🚧 《通用规范汉字表》（6843 / 8105）
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ Big5 常用汉字表（5401 / 5401）
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅《常用国字标准字体表》（4808 / 4808）
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 jf7000 当务字集基本包（6064 / 6373）
+&nbsp;&nbsp;&nbsp;&nbsp;🚧 jf7000 当务字集基本包（6101 / 6373）
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 GB/T 12345（6287 / 6866）
+&nbsp;&nbsp;&nbsp;&nbsp;🚧 GB/T 12345（6479 / 6866）
 
-&nbsp;&nbsp;&nbsp;&nbsp;ℹ️ 共计支持汉字：9975
+&nbsp;&nbsp;&nbsp;&nbsp;ℹ️ 共计支持汉字：10411
 
 
 
