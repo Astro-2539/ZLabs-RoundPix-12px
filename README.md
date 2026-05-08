@@ -7,7 +7,7 @@
 
 **「Z Labs RoundPix 12px」（Z工坊像素圆体 12px）** 是一款基于日语字体[「x12y12pxMaruMinya」](https://github.com/hicchicc/x12y12pxMaruMinya)修改和增补的 12px 中文像素字体（汉字实际占用大小为 11*11），采用圆体字形风格，西文字符按等宽规格绘制。
 
-本项目处于开发阶段，目前支持 GB/T 2312 规定的全部汉字、常用西文及常用标点符号，可满足大部分简体中文汉字使用需求。
+本项目处于开发阶段，目前支持 GB/T 2312 规定的全部汉字、常用西文及常用标点符号，可满足大部分简繁体<sup>[[注]](#custom-anchor-trad)</sup>中文汉字使用需求。
 
 > [!WARNING]
 > 
@@ -19,7 +19,7 @@
 > [!IMPORTANT]
 > 
 > 本字体对原作进行了大量修改，以适应简体中文环境。对于需要使用日语的场合，建议使用原版字体[「x12y12pxMaruMinya」](https://github.com/hicchicc/x12y12pxMaruMinya)。
->
+> 
 > このフォントは原作に対し、簡体字中国語環境に適応させるために大幅に修正されています。日本語を使用する必要がある場合は、オリジナルフォント[「x12y12pxMaruMinya」](https://github.com/hicchicc/x12y12pxMaruMinya)の使用をお勧めします。
 
 > [!IMPORTANT]
@@ -45,6 +45,11 @@
 >
 > 需要更大的字号？试试 [**Z工坊像素圆体 16px**](https://github.com/Astro-2539/ZLabs-RoundPix-16px) 或 [**12×16莫妮卡圆像素**（by 綿雲飴里）](https://www.maoken.com/freefonts/25830.html) 
 
+<a id="custom-anchor-trad"></a>
+> [!IMPORTANT]
+> 
+> **对于繁体中文用户：** 尽管本字体从字符集上支持繁体中文的基本使用，但目前仅提供中国大陆字形版本，与繁体中文的惯用字形有一定出入。若您对此感到介意，请使用其他字体。
+> 
 
 ## 字体覆盖范围
 
@@ -54,17 +59,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ GB/T 2312 （6763 / 6763）
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 《通用规范汉字表》（6843 / 8105）
+&nbsp;&nbsp;&nbsp;&nbsp;🚧 《通用规范汉字表》（6908 / 8105）
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ Big5 常用汉字表（5401 / 5401）
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅《常用国字标准字体表》（4808 / 4808）
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 jf7000 当务字集基本包（6101 / 6373）
+&nbsp;&nbsp;&nbsp;&nbsp;✅ jf7000 当务字集基本包（6373 / 6373）
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 GB/T 12345（6479 / 6866）
+&nbsp;&nbsp;&nbsp;&nbsp;🚧 GB/T 12345（6585 / 6866）
 
-&nbsp;&nbsp;&nbsp;&nbsp;ℹ️ 共计支持汉字：10411
+&nbsp;&nbsp;&nbsp;&nbsp;✅ JIS X 0208（6355 / 6355）
+
+&nbsp;&nbsp;&nbsp;&nbsp;ℹ️ 共计支持汉字：10696
 
 
 

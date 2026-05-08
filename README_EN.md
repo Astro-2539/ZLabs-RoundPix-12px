@@ -12,7 +12,7 @@
 
 **Z Labs RoundPix 12px** is a 12px Chinese pixel font (actual occupied size of Chinese characters is 11*11) modified and supplemented based on the Japanese font [**x12y12pxMaruMinya**](https://github.com/hicchicc/x12y12pxMaruMinya), adopting a rounded glyph style with Western characters drawn to a monospaced specification.
 
-This project is in the development stage. Currently, it supports all Chinese characters in GB/T 2312, common Western characters, and common punctuation marks, meeting the basic needs for using simplified Chinese characters.
+This project is in the development stage. Currently, it supports all Chinese characters in GB/T 2312, common Western characters, and common punctuation marks, meeting the basic needs for using simplified and traditional<sup>[[note]](#custom-anchor-trad)</sup> Chinese characters.
 
 > [!WARNING]
 > 
@@ -43,6 +43,13 @@ This project is in the development stage. Currently, it supports all Chinese cha
 > [!TIP]
 >
 > Need larger size? Try [**Z Labs RoundPix 16px**](https://github.com/Astro-2539/ZLabs-RoundPix-16px) or [**x12y16pxMyMaruMonica** (by 綿雲飴里)](https://www.maoken.com/freefonts/25830.html)
+>
+
+<a id="custom-anchor-trad"></a>
+> [!IMPORTANT]
+> 
+> **For Traditional Chinese users:** Although this font supports the basic usage of Traditional Chinese in terms of character set, it currently only provides the Chinese Mainland font version, which may deviate from the traditional font of Traditional Chinese to some extent. If this bothers you, please use another font.
+> 
 
 ## Font Coverage
 
@@ -52,17 +59,19 @@ This project is in the development stage. Currently, it supports all Chinese cha
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ GB/T 2312 (6763 / 6763)
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 *Table of General Standard Chinese Characters*（通用规范汉字表） (6843 / 8105)
+&nbsp;&nbsp;&nbsp;&nbsp;🚧 *Table of General Standard Chinese Characters*（通用规范汉字表） (6908 / 8105)
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ Big5 Common Chinese Character List (5401 / 5401)
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ *Standard Form of Common National Characters Table* (4808 / 4808)
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 jf7000 Priority Character Set Basic Package (6101 / 6373)
+&nbsp;&nbsp;&nbsp;&nbsp;✅ jf7000 Priority Character Set Basic Package (6373 / 6373)
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 GB/T 12345 (6479 / 6866)
+&nbsp;&nbsp;&nbsp;&nbsp;🚧 GB/T 12345 (6585 / 6866)
 
-&nbsp;&nbsp;&nbsp;&nbsp;ℹ️ Total supported Chinese characters: 10411
+&nbsp;&nbsp;&nbsp;&nbsp;✅ JIS X 0208（6355 / 6355）
+
+&nbsp;&nbsp;&nbsp;&nbsp;ℹ️ Total supported Chinese characters: 10696
 
 ## Building the Font from Project Files
 
