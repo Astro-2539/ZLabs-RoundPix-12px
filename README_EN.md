@@ -42,7 +42,7 @@ This project is in the development stage. Currently, it supports all Chinese cha
 
 > [!TIP]
 >
-> Need larger size? Try [**Z Labs RoundPix 16px**](https://github.com/Astro-2539/ZLabs-RoundPix-16px) or [**x12y16pxMyMaruMonica** (by 綿雲飴里)](https://www.maoken.com/freefonts/25830.html)
+> Need larger size? Try [**Z Labs RoundPix 16px**](https://github.com/Astro-2539/ZLabs-RoundPix-16px), [**QiuYeYuanTi 16** (by yzdnn)](https://github.com/yzdnn/QiuYeYuanTi-16) or [**x12y16pxMyMaruMonica** (by 綿雲飴里)](https://www.maoken.com/freefonts/25830.html)
 >
 
 <a id="custom-anchor-trad"></a>
@@ -59,7 +59,7 @@ This project is in the development stage. Currently, it supports all Chinese cha
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ GB/T 2312 (6763 / 6763)
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 *Table of General Standard Chinese Characters*（通用规范汉字表） (6908 / 8105)
+&nbsp;&nbsp;&nbsp;&nbsp;🚧 *Table of General Standard Chinese Characters*（通用规范汉字表） (7202 / 8105)
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ Big5 Common Chinese Character List (5401 / 5401)
 
@@ -71,7 +71,7 @@ This project is in the development stage. Currently, it supports all Chinese cha
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ JIS X 0208（6355 / 6355）
 
-&nbsp;&nbsp;&nbsp;&nbsp;ℹ️ Total supported Chinese characters: 10696
+&nbsp;&nbsp;&nbsp;&nbsp;ℹ️ Total supported Chinese characters: 11155
 
 ## Building the Font from Project Files
 
