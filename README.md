@@ -7,13 +7,11 @@
 
 **「Z Labs RoundPix 12px」（Z工坊像素圆体 12px）** 是一款基于日语字体[「x12y12pxMaruMinya」](https://github.com/hicchicc/x12y12pxMaruMinya)修改和增补的 12px 中文像素字体（汉字实际占用大小为 11*11），采用圆体字形风格，西文字符按等宽规格绘制。
 
-本项目处于开发阶段，目前支持 GB/T 2312 规定的全部汉字、常用西文及常用标点符号，可满足大部分简体中文及繁体中文<sup>[[注]](#custom-anchor-trad)</sup>汉字使用需求。
+本字体目前支持 GB/T 2312 及《通用规范汉字表》规定的全部简体汉字、常用西文及常用标点符号，可满足大部分简体中文及繁体中文<sup>[[注]](#custom-anchor-trad)</sup>汉字使用需求。
 
 > [!WARNING]
 > 
-> 此字体仍处于开发阶段，一定程度上存在缺字问题。
-> 
-> 如在使用过程中有任何问题，请及时在 Issues 中反馈。
+> 如在使用过程中遇到缺字、错字等问题，请及时在 Issues 中反馈。
 
 
 > [!IMPORTANT]
@@ -59,7 +57,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ GB/T 2312 （6763 / 6763）
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 《通用规范汉字表》（7202 / 8105）
+&nbsp;&nbsp;&nbsp;&nbsp;✅ 《通用规范汉字表》（8105 / 8105）
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ Big5 常用汉字表（5401 / 5401）
 

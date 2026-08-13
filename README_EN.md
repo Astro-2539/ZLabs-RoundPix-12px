@@ -12,11 +12,11 @@
 
 **Z Labs RoundPix 12px** is a 12px Chinese pixel font (actual occupied size of Chinese characters is 11*11) modified and supplemented based on the Japanese font [**x12y12pxMaruMinya**](https://github.com/hicchicc/x12y12pxMaruMinya), adopting a rounded glyph style with Western characters drawn to a monospaced specification.
 
-This project is in the development stage. Currently, it supports all Chinese characters in GB/T 2312, common Western characters, and common punctuation marks, meeting the basic needs for using simplified and traditional<sup>[[note]](#custom-anchor-trad)</sup> Chinese characters.
+Currently this font supports all Simplified Chinese characters in GB/T 2312 and *Tongyong Guifan Hanzi Biao*(Table of General Standard Chinese Characters), common Western characters, and common punctuation marks, meeting the basic needs for using simplified and traditional<sup>[[note]](#custom-anchor-trad)</sup> Chinese characters.
 
 > [!WARNING]
 > 
-> **This font is still under development.** If you encounter any issues during use, please promptly provide feedback in the Issues section.
+> If you encounter any issues during use, please promptly provide feedback in the Issues section.
 
 > [!IMPORTANT]
 > 
@@ -59,7 +59,7 @@ This project is in the development stage. Currently, it supports all Chinese cha
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ GB/T 2312 (6763 / 6763)
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 *Table of General Standard Chinese Characters*（通用规范汉字表） (7202 / 8105)
+&nbsp;&nbsp;&nbsp;&nbsp;✅ *Table of General Standard Chinese Characters*（通用规范汉字表） (8105 / 8105)
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ Big5 Common Chinese Character List (5401 / 5401)
 
@@ -71,7 +71,7 @@ This project is in the development stage. Currently, it supports all Chinese cha
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ JIS X 0208（6355 / 6355）
 
-&nbsp;&nbsp;&nbsp;&nbsp;ℹ️ Total supported Chinese characters: 11155
+&nbsp;&nbsp;&nbsp;&nbsp;ℹ️ Total supported Chinese characters: 12086
 
 ## Building the Font from Project Files
 
